@@ -4,8 +4,7 @@ export default [
   {
     id: 1,
     title: "Do the dishes",
-    description:
-      "I need to do the dished because there are so many. Oh lord...",
+    description: "I need to do the dished because there are so many. Oh lord.",
   },
   {
     id: 2,
